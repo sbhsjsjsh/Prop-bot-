@@ -7,6 +7,7 @@ import Features from '@/components/landing/Features';
 import Pricing from '@/components/landing/Pricing';
 import ContactForm from '@/components/landing/ContactForm';
 import Footer from '@/components/landing/Footer';
+import ChatWidget from '@/components/landing/ChatWidget';
 
 export default function Home() {
   return (
@@ -18,6 +19,7 @@ export default function Home() {
       <Pricing />
       <ContactForm />
       <Footer />
+      <ChatWidget />
     </main>
   );
 }

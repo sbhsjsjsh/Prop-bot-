@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Navbar from '@/components/landing/Navbar';
 import Footer from '@/components/landing/Footer';
 import ContactForm from '@/components/landing/ContactForm';
+import ChatWidget from '@/components/landing/ChatWidget';
 import { CheckCircle2, Zap, Target, Clock, TrendingUp, Users, ShieldCheck, ChevronDown, MessageCircle } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -247,6 +248,7 @@ export default function PropertyDealersPage() {
       </div>
 
       <Footer />
+      <ChatWidget />
     </main>
   );
 }

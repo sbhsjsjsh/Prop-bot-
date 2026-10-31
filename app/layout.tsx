@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   icons: {
     icon: '/icon.jpg',
   },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
   openGraph: {
     title: 'Real Estate AI Chatbot Developer | AI Property Chatbot Solutions',
     description: 'Looking for a real estate AI chatbot developer? Get smart AI chatbot solutions for property websites to handle buyer enquiries, generate leads, and automate support.',
