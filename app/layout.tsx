@@ -11,6 +11,9 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 export const metadata: Metadata = {
   title: 'Real Estate AI Chatbot Developer | AI Property Chatbot Solutions',
   description: 'Looking for a real estate AI chatbot developer? Get smart AI chatbot solutions for property websites to handle buyer enquiries, generate leads, answer property questions, and automate customer support.',
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
   icons: {
     icon: '/icon.jpg',
   },
