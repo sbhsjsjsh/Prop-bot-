@@ -1,0 +1,6 @@
+{
+  "name": "PropBot",
+  "description": "Real Estate AI Chatbot Developer providing smart AI property chatbot solutions to handle enquiries, generate leads, and automate support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
